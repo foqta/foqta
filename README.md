@@ -13,41 +13,39 @@
 
 ---
 
-Hey — I'm **foqta**. Based in Spain, I write code for fun and sometimes for work.
-
-I'm a full-stack developer who can't help but dig deeper than needed. I started out of curiosity and it hasn't stopped.
-
----
-
-### A bit about me
-
-- 🌐 &nbsp;**Full-stack dev** — building web things with TypeScript, React/Next.js, and Node
-- ⚙️ &nbsp;**Low-level curious** — C++, C#, and x86/x64 ASM when I want to understand *why* something works
-- 🐍 &nbsp;**Python** for scripting, tooling, and small useful things
-- 🎮 &nbsp;Built a Roblox username checker because I could ([checkblox](https://github.com/foqta/checkblox))
-- 🔁 &nbsp;Currently: rebuilding, learning, shipping — `reborning.`
+Hey — I'm **Francisco**, 16, from Spain 🇪🇸
+I touch a bit of everything — web, scripting, systems — but what really pulls me in is low-level stuff. How the machine actually works. What happens before the framework starts.
+Still learning. Building anyway.
 
 ---
 
-### What I'm working on
+### What I do
 
-| Project | What it is | Stack |
+- 🌐 &nbsp;**Full-stack** — TypeScript, React/Next.js, Node.js for the web side
+- ⚙️ &nbsp;**Systems** — C++ and x86/x64 ASM is where I want to go deeper
+- 🐍 &nbsp;**Python** for scripts and small tools
+- 🎮 &nbsp;Random stuff when I find something interesting ([checkblox](https://github.com/foqta/checkblox))
+- 📍 &nbsp;Currently: `reborning.` — rebuilding, learning, figuring things out
+
+---
+
+### Projects
+
+| | Project | Stack |
 |---|---|---|
-| [solucionesados](https://github.com/foqta/solucionesados) | Active — 26 commits this month | TypeScript |
-| [barberiajoaquin](https://github.com/foqta/barberiajoaquin) | Barbershop web app | TypeScript |
-| [foqta.github.io](https://foqta.github.io) | My personal site | HTML |
-| [checkblox](https://github.com/foqta/checkblox) | Bulk Roblox username checker | Python |
-| [cpp](https://github.com/foqta/cpp) | C++ exercises & practice | C++ |
+| 🔨 | [solucionesados](https://github.com/foqta/solucionesados) — active right now | TypeScript |
+| 💈 | [barberiajoaquin](https://github.com/foqta/barberiajoaquin) — barbershop web app | TypeScript |
+| 🌍 | [foqta.github.io](https://foqta.github.io) — my site | HTML |
+| 🎮 | [checkblox](https://github.com/foqta/checkblox) — Roblox username checker | Python |
+| 🔩 | [cpp](https://github.com/foqta/cpp) — learning C++ | C++ |
 
 ---
 
 ### Stack
 
 ```
-Languages:   TypeScript · JavaScript · Python · C++ · C# · Lua · ASM x86/x64
-Frontend:    React · Next.js · HTML · CSS
-Backend:     Node.js · Express
-Tools:       Git · GitHub · VS Code
+Know:        TypeScript · JavaScript · Python · C++ · C# · Lua · HTML · CSS
+Learning:    ASM x86/x64 · low-level C++ · how computers actually work
 ```
 
 ---
@@ -66,6 +64,6 @@ Tools:       Git · GitHub · VS Code
 
 <div align="center">
 
-`he/him` &nbsp;·&nbsp; Spain 🇪🇸 &nbsp;·&nbsp; always building something
+`he/him` &nbsp;·&nbsp; 16 &nbsp;·&nbsp; Spain
 
 </div>
