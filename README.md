@@ -1,57 +1,58 @@
 <div align="center">
 
- ██████╗  ██████╗  ██████╗ ████████╗ █████╗
-██╔════╝ ██╔═══██╗██╔═══██╗╚══██╔══╝██╔══██╗
-█████╗   ██║   ██║██║   ██║   ██║   ███████║
-██╔══╝   ██║   ██║██║▄▄ ██║   ██║   ██╔══██║
-██║      ╚██████╔╝╚██████╔╝   ██║   ██║  ██║
-╚═╝       ╚═════╝  ╚══▀▀═╝    ╚═╝   ╚═╝  ╚═╝
+# foqta.
+
+<sub><code>DEV · 16 · LORCA, MURCIA</code></sub>
 
 </div>
 
-<pre>
-francisco@foqta ~ % whoami
-16, Murcia (ES). he/him.
+<br/>
 
-francisco@foqta ~ % cat interests.log
-[web]     TypeScript, React/Next.js, Node — pays the bills, comes easy
-[systems] C++, x86/x64 ASM — this is the part I actually chase
-[note]    everything above the OS eventually stops being interesting.
-          everything below it doesn't.
+16 años, cofundador de **Soluciones A-Dos** — agencia digital en Lorca, Murcia. Llevo toda la parte técnica: webs (Next.js/React/Supabase/Vercel), agentes de WhatsApp e IA y automatizaciones.
 
-francisco@foqta ~ % status
-reborning. rebuilding the stack from the bottom up, on purpose.
-</pre>
+Empecé a los 11 con un bot de Discord, sin tener ni idea de lo que hacía. Pero ya antes me pasaba las tardes desmontando cosas para ver cómo funcionaban. Autodidacta y resolutivo, con un poco de todo: código, electrónica, motos y matemáticas. Lo que más me llama ahora es entender las cosas desde la raíz, no solo usarlas.
 
----
+<br/>
 
-### shipped
+<sub><code>SOCIALS</code></sub>
 
-**[imcaps](https://github.com/foqta/imguicaps)** — desktop overlay for Windows, raw Win32 + DirectX11 + Dear ImGui. No framework between me and the compositor. Keyboard heatmap, live WPM, Discord/Spotify presence, system stats, click-through mode. `C++`
+[![Instagram](https://img.shields.io/badge/instagram-050505?style=flat-square&logo=instagram&logoColor=f2762e)](https://instagram.com/franyeex)
+[![TikTok](https://img.shields.io/badge/tiktok-050505?style=flat-square&logo=tiktok&logoColor=f2762e)](https://tiktok.com/@franyeks)
+[![Web](https://img.shields.io/badge/solucionesados.com-050505?style=flat-square&logo=vercel&logoColor=f2762e)](https://solucionesados.com)
 
-**[solucionesados](https://github.com/foqta/solucionesados)** — client work, currently active. `TypeScript`
+<br/>
 
-**[barberiajoaquin](https://github.com/foqta/barberiajoaquin)** — booking app for a real barbershop. `TypeScript`
+<sub><code>STACK</code></sub>
 
-**[checkblox](https://github.com/foqta/checkblox)** — Roblox username availability checker. `Python`
+![TypeScript](https://img.shields.io/badge/typescript-050505?style=flat-square&logo=typescript&logoColor=f2762e)
+![React](https://img.shields.io/badge/react-050505?style=flat-square&logo=react&logoColor=f2762e)
+![Next.js](https://img.shields.io/badge/next.js-050505?style=flat-square&logo=next.js&logoColor=f2762e)
+![Node.js](https://img.shields.io/badge/node.js-050505?style=flat-square&logo=node.js&logoColor=f2762e)
+![Supabase](https://img.shields.io/badge/supabase-050505?style=flat-square&logo=supabase&logoColor=f2762e)
+![Vercel](https://img.shields.io/badge/vercel-050505?style=flat-square&logo=vercel&logoColor=f2762e)
+![Twilio](https://img.shields.io/badge/twilio-050505?style=flat-square&logo=twilio&logoColor=f2762e)
+![C++](https://img.shields.io/badge/c%2B%2B-050505?style=flat-square&logo=cplusplus&logoColor=f2762e)
+![C#](https://img.shields.io/badge/c%23-050505?style=flat-square&logo=csharp&logoColor=f2762e)
+![Arduino](https://img.shields.io/badge/arduino-050505?style=flat-square&logo=arduino&logoColor=f2762e)
+![MongoDB](https://img.shields.io/badge/mongodb-050505?style=flat-square&logo=mongodb&logoColor=f2762e)
+![Vite](https://img.shields.io/badge/vite-050505?style=flat-square&logo=vite&logoColor=f2762e)
 
-**[cpp](https://github.com/foqta/cpp)** — where the ASM/low-level stuff actually happens. `C++`
+<br/>
 
----
+<sub><code>STATS</code></sub>
 
-<pre>
-francisco@foqta ~ % cat stack.txt
-comfortable   TypeScript · JavaScript · Python · C# · Lua · HTML/CSS
-grinding on   C++ (Win32, DirectX11) · x86/x64 ASM
-</pre>
+<img src="https://github-readme-stats.shion.dev/api?username=foqta&hide_border=true&include_all_commits=true&count_private=true&bg_color=050505&title_color=f2762e&text_color=f5f5f5&icon_color=f2762e" alt="stats" />
+<img src="https://streak-stats.demolab.com/?user=foqta&hide_border=true&background=050505&stroke=292929&ring=f2762e&fire=f2762e&currStreakLabel=f5f5f5&sideNums=f5f5f5&currStreakNum=f5f5f5&sideLabels=8c8c8c&dates=8c8c8c" alt="streak" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=foqta&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=050505&title_color=f2762e&text_color=f5f5f5" alt="top langs" />
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=foqta&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=e6e6e6&icon_color=888888&text_color=aaaaaa" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foqta&layout=compact&hide_border=true&bg_color=00000000&title_color=e6e6e6&text_color=aaaaaa" height="150"/>
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=foqta&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 
-<div align="center">
+<br/>
 
-[foqta.solucionesados.com](https://foqta.solucionesados.com)
+<sub><code>QUOTE</code></sub>
 
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=050505&color=f5f5f5" alt="quote" />
+
+<br/><br/>
+
+<sub>[![visitas](https://komarev.com/ghpvc/?username=foqta&color=f2762e&style=flat-square&label=visitas)](https://visitcount.itsvg.in)</sub>
