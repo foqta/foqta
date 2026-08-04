@@ -45,13 +45,9 @@ Empecé a los 11 con un bot de Discord, sin tener ni idea de lo que hacía. Pero
 <img src="https://streak-stats.demolab.com/?user=foqta&hide_border=true&background=050505&stroke=292929&ring=f2762e&fire=f2762e&currStreakLabel=f5f5f5&sideNums=f5f5f5&currStreakNum=f5f5f5&sideLabels=8c8c8c&dates=8c8c8c" alt="streak" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=foqta&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=050505&title_color=f2762e&text_color=f5f5f5" alt="top langs" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=foqta&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
 <br/>
 
-<sub><code>QUOTE</code></sub>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=050505&color=f5f5f5" alt="quote" />
 
 <br/><br/>
 
