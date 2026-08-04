@@ -1,69 +1,57 @@
 <div align="center">
 
-```
- ██████╗  ██████╗  ██████╗ ████████╗ █████╗ 
+ ██████╗  ██████╗  ██████╗ ████████╗ █████╗
 ██╔════╝ ██╔═══██╗██╔═══██╗╚══██╔══╝██╔══██╗
 █████╗   ██║   ██║██║   ██║   ██║   ███████║
 ██╔══╝   ██║   ██║██║▄▄ ██║   ██║   ██╔══██║
 ██║      ╚██████╔╝╚██████╔╝   ██║   ██║  ██║
 ╚═╝       ╚═════╝  ╚══▀▀═╝    ╚═╝   ╚═╝  ╚═╝
-```
 
 </div>
 
----
+<pre>
+francisco@foqta ~ % whoami
+16, Murcia (ES). he/him.
 
-Hey — I'm **Francisco**, 16, from Spain 🇪🇸
-I touch a bit of everything — web, scripting, systems — but what really pulls me in is low-level stuff. How the machine actually works. What happens before the framework starts.
-Still learning. Building anyway.
+francisco@foqta ~ % cat interests.log
+[web]     TypeScript, React/Next.js, Node — pays the bills, comes easy
+[systems] C++, x86/x64 ASM — this is the part I actually chase
+[note]    everything above the OS eventually stops being interesting.
+          everything below it doesn't.
 
----
-
-### What I do
-
-- 🌐 &nbsp;**Full-stack** — TypeScript, React/Next.js, Node.js for the web side
-- ⚙️ &nbsp;**Systems** — C++ and x86/x64 ASM is where I want to go deeper
-- 🐍 &nbsp;**Python** for scripts and small tools
-- 🎮 &nbsp;Random stuff when I find something interesting ([checkblox](https://github.com/foqta/checkblox))
-- 📍 &nbsp;Currently: `reborning.` — rebuilding, learning, figuring things out
+francisco@foqta ~ % status
+reborning. rebuilding the stack from the bottom up, on purpose.
+</pre>
 
 ---
 
-### Projects
+### shipped
 
-| | Project | Stack |
-|---|---|---|
-| 🔨 | [solucionesados](https://github.com/foqta/solucionesados) — active right now | TypeScript |
-| 💈 | [barberiajoaquin](https://github.com/foqta/barberiajoaquin) — barbershop web app | TypeScript |
-| 🌍 | [foqta.github.io](https://foqta.github.io) — my site | HTML |
-| 🎮 | [checkblox](https://github.com/foqta/checkblox) — Roblox username checker | Python |
-| 🔩 | [cpp](https://github.com/foqta/cpp) — learning C++ | C++ |
+**[imcaps](https://github.com/foqta/imguicaps)** — desktop overlay for Windows, raw Win32 + DirectX11 + Dear ImGui. No framework between me and the compositor. Keyboard heatmap, live WPM, Discord/Spotify presence, system stats, click-through mode. `C++`
 
----
+**[solucionesados](https://github.com/foqta/solucionesados)** — client work, currently active. `TypeScript`
 
-### Stack
+**[barberiajoaquin](https://github.com/foqta/barberiajoaquin)** — booking app for a real barbershop. `TypeScript`
 
-```
-Know:        TypeScript · JavaScript · Python · C++ · C# · Lua · HTML · CSS
-Learning:    ASM x86/x64 · low-level C++ · how computers actually work
-```
+**[checkblox](https://github.com/foqta/checkblox)** — Roblox username availability checker. `Python`
+
+**[cpp](https://github.com/foqta/cpp)** — where the ASM/low-level stuff actually happens. `C++`
 
 ---
 
-### Stats
+<pre>
+francisco@foqta ~ % cat stack.txt
+comfortable   TypeScript · JavaScript · Python · C# · Lua · HTML/CSS
+grinding on   C++ (Win32, DirectX11) · x86/x64 ASM
+</pre>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=foqta&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foqta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=foqta&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=e6e6e6&icon_color=888888&text_color=aaaaaa" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foqta&layout=compact&hide_border=true&bg_color=00000000&title_color=e6e6e6&text_color=aaaaaa" height="150"/>
 </div>
 
----
-
 <div align="center">
 
-`he/him` &nbsp;·&nbsp; 16 &nbsp;·&nbsp; Spain
+[foqta.solucionesados.com](https://foqta.solucionesados.com)
 
 </div>
