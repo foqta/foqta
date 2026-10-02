@@ -2,13 +2,13 @@
 
 # foqta.
 
-<sub><code>DEV · 16 · LORCA, MURCIA</code></sub>
+<sub><code>DEV · 17 · LORCA, MURCIA</code></sub>
 
 </div>
 
 <br/>
 
-16 años, cofundador de **Soluciones A-Dos** — agencia digital en Lorca, Murcia. Llevo toda la parte técnica: webs (Next.js/React/Supabase/Vercel), agentes de WhatsApp e IA y automatizaciones.
+17 años, cofundador de **Soluciones A-Dos** — agencia digital en Lorca, Murcia. Llevo toda la parte técnica: webs (Next.js/React/Supabase/Vercel), agentes de WhatsApp e IA y automatizaciones.
 
 Empecé a los 11 con un bot de Discord, sin tener ni idea de lo que hacía. Pero ya antes me pasaba las tardes desmontando cosas para ver cómo funcionaban. Autodidacta y resolutivo, con un poco de todo: código, electrónica, motos y matemáticas. Lo que más me llama ahora es entender las cosas desde la raíz, no solo usarlas.
 
